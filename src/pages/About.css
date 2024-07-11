@@ -1,0 +1,33 @@
+#about-info {
+    min-height: 25vh;
+}
+
+#about img {
+  width: 250px;
+  border-radius: 10px;
+  box-shadow: 20px 20px 20px #000000;
+}
+
+#about img:hover {
+  width: 250px;
+  transition: all .5s ease;
+}
+
+#about span:hover {
+  color: #ce0b76;
+  filter: drop-shadow(0 0 0.75rem purple);
+  text-shadow: 0 0 20px purple, 0 0 40px purple;
+  transition: all 0.4s ease;
+}
+
+#about span {
+  font-size: 18px;
+  text-decoration: none;
+  color: rgb(16, 17, 17);
+}
+
+#about {
+  background:  #ff0077;
+  padding-top: 40px;
+padding-bottom: 40px;
+}

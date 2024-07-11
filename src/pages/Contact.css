@@ -1,0 +1,42 @@
+#Contact-info {
+    min-height: 25vh;
+}
+
+#faq .accordion .faq-item #collapseOne .btn:hover {
+    color: #200bdd;                                                                                             
+    background: rgb(123, 2, 160);
+}
+
+#faq .accordion .faq-item #collapseTwo .btn:hover {
+    color:  #190dc0;
+    background: rgb(134, 2, 160);
+}
+
+#faq .accordion .faq-item #collapseThree  .btn:hover {
+    color:  #0c0c0e;
+    background: rgb(134, 2, 160);
+}
+
+#faq {                                                                                   
+    background: #ff008c;
+  }
+
+  #footer {
+    color: #190964;
+    background:  #ff008c;
+}
+
+#faq a .icons {
+    font-size: 50px;
+    color: #0026ff;
+}
+
+#faq .row {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+#faq .container {
+    padding: 100px;
+}
